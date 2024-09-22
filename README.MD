@@ -1,4 +1,4 @@
-<h1>Objective</h1>
+<h1>Mission Objective</h1>
 <h2>Train the Secure HeartID model on smart device datasets and deploy it to an Apple Watch using CoreML.</h2>
 
 Here's a breakdown of the steps involved:
