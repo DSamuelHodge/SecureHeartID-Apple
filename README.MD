@@ -226,6 +226,3 @@ Individual voltage measurements that make up an Apple watch ECG sample:
 
 **By addressing these limitations and incorporating the desired features, future wearable ECG devices can offer more comprehensive and efficient solutions for healthcare professionals and patients.**
 
-
-# SecureHeartID-Apple
-# SecureHeartID-Apple
