@@ -1,4 +1,4 @@
-Thank you for providing this additional model and context about the Secure HeartID system. Let's review this model and consider how the SMoLK philosophy could enhance it while making it more efficient and lightweight for resource-constrained devices like an Apple Watch.
+SMoLK philosophy making Secure HeartID more efficient and lightweight for resource-constrained devices like an Apple Watch. The next step is to implement a power spectrum embedding features within the Neural Network, going from `Blackbox` to Explainable AI (xAI).
 
 
 
@@ -97,7 +97,7 @@ class SecureTripletLoss(nn.Module):
 
 ```
 
-Now, let's review the Secure HeartID model and consider how we can enhance it using the SMoLK philosophy:
+Review of Small Secure HeartID model and consider how we can enhance it using the SMoLK philosophy:
 
 1. Current Model Architecture:
    - Uses a series of 1D convolutional layers followed by fully connected layers.
