@@ -42,8 +42,8 @@ The AppleWatch HeartID project aims to develop a secure biometric identification
 - 1 iOS Engineer (40 hours/week)
 - 1 Backend Engineer (as needed)
 - 1 SQA Engineer (as needed)
-- 1 Engagement/Engineering Manager (complimentary)
-- 1 Key Account Manager (complimentary)
+- 1 Engagement/Engineering Manager
+- 1 Key Account Manager 
 
 ## Technical Stack
 - Development Environment: Xcode, Swift
